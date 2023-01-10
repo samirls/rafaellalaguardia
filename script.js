@@ -5,3 +5,4 @@ hamburguer.addEventListener("click", () => {
     hamburguer.classList.toggle("active");
     nav.classList.toggle("active");
 })
+
