@@ -5,7 +5,7 @@ new fullpage("#fullpage", {
     slidesNavPosition: 'bottom',
     scrollingSpeed: 800,
     loopHorizontal: false,
-    anchors: ["home", "quemSouEu", "agende", "blog"]
+    anchors: ["home", "quemSouEu", "perguntas", "agende", "blog"]
 
 })
 
